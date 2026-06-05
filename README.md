@@ -120,10 +120,9 @@ A secure authentication system with user registration, login, and profile manage
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megersatekalign95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/megersa-tekalign)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/megersa27/portfolio-website)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/megersa27)
 
 ---
 
@@ -142,12 +141,6 @@ A secure authentication system with user registration, login, and profile manage
 
 ---
 
-## 🏆 Goals
-
-- 🎯 Secure a role as a Full-Stack Developer or Junior Software Engineer
-- 📚 Master advanced architectural patterns and best practices
-- 🌍 Contribute meaningfully to open-source projects
-- 💪 Build production-ready applications that make an impact
 
 ---
 
