@@ -120,7 +120,7 @@ A secure authentication system with user registration, login, and profile manage
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megersatekalign95@gmail.com)
+[![Email](megersatekalign95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/megersa-tekalign)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/megersa27/portfolio-website](https://github.com/megersa27/Portfolio))
 
